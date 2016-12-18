@@ -21,8 +21,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rajanpsanthanam
 github_username:  rajanpsanthanam
-disqus:
-  shortname: rajanpsanthanam-github-io
 
 # Build settings
 markdown: kramdown
