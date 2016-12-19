@@ -6,8 +6,8 @@ permalink: /about/
 
 Hello,
 
-I am Rajan, product developer by profession. I love working with techonology and having lot of interest in product space.
-I would like to share and learn to and from fellow programmmers around the globe. I hope there will be some intake for you guys
+I am Rajan, product developer by profession. I love working with technology and having lot of interest in product space.
+I would like to share to and learn from fellow programmmers around the globe. I hope there will be some intake for you guys
 from this blog.
 
 You can know more about me through the below channels.
