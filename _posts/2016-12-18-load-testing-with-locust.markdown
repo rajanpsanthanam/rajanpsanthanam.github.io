@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "load testing with locust"
+author: "Rajan Santhanam"
 date:   2016-12-18
 categories: python
 ---
