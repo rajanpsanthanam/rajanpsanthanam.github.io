@@ -1,0 +1,32 @@
+---
+title: Figma - A wonderful design tool!
+layout: post
+author: Rajan Santhanam
+date: '2020-04-19'
+categories:
+- product
+---
+
+**Hey there!**
+
+I have put down my thoughts on why I love figma and why it is amazing
+
+> If you are hearing the name figma for the first time, you should [check](https://www.figma.com//) them out.
+
+![](https://rajanpsanthanam.s3.ap-south-1.amazonaws.com/figma-post.png)
+
+Figma is pretty cool product for *prototyping and designing*. The interesting part here is collaborative designing which means, you can interact over design with designers to get the thoughts clarified. How cool is that!
+
+The product as such is *very simple*, few days with the product you will feel comfortable using it.
+
+This is a *great toolkit* for a product person like me to talk fluent design. Most cases, there are multiple iterations which happens between product manager and designers to get the right output.
+
+Using figma helps you get the right output in *minimal time*. It all starts with getting the UI library done for your work and then start building screens. In every step you can collabarate and reduce the back and forth.
+
+Another important aspect is figma is completely *web based* and you just need to login! This helps you to get things done anywhere, anytime. No depedencies!
+
+Fifma has a *free plan* to start with for up to 2 editors and 3 projects
+
+If you are someone working with products, figma is definetly a great toolkit for you!
+
+**Thanks for your time.**

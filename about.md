@@ -1,21 +1,13 @@
 ---
-layout: page
 title: About
-permalink: /about/
+layout: page
+permalink: "/about/"
 ---
 
-Hello,
+Hey there!
 
-I am Rajan, product developer by profession. I love working with technology and having lot of interest in product space.
-I would like to share to and learn from fellow programmmers around the globe. I hope there will be some intake for you guys
-from this blog.
+I am [Rajan](https://www.linkedin.com/in/rajan-santhanam-26864854), This is my channel where I want to share my thoughts about software products which I use, I admire and I learn from.
 
-You can know more about me through the below channels.
+I am a software engineer turned product manager working in Bangalore, India.
 
-[github](https://www.github.com/rajanpsanthanam/)
-
-[twitter](https://www.twitter.com/rajanpsanthanam/)
-
-[instagram](https://www.instagram.com/rajanpsanthanam/)
-
-[linkdin](https://www.linkedin.com/in/rajan-santhanam-26864854)
+I love working on software products which are meaningful and solves problem.
