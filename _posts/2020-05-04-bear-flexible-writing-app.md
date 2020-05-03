@@ -1,5 +1,10 @@
 ---
 title: Bear - Flexible Writing App
+layout: post
+author: Rajan Santhanam
+date: '2020-05-04'
+categories:
+- product
 ---
 
 **Hey there!**
